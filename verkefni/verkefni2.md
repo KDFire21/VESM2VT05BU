@@ -35,7 +35,7 @@
 ## Námsmat og skil
 
 Gefið er heilt fyrir fullnægjandi lausn og svör, hálft ef ábótavant eða svör vanta.
-Skilaðu á Innu vefslóð á **Github wiki** vefsíðu sem inniheldur:
+Skilaðu á Innu vefslóð á **Github wiki** (private) vefsíðu sem inniheldur:
 
 - Myndbönd af virkni úr verklegum tilraunum.
   - Passaðu að nafnið þitt og dagsetning komi fram (t.d. á miða) í öllum myndböndum.
