@@ -1,4 +1,4 @@
-# Verkefni 2 - _drög_
+# Verkefni 2
 - Námsmat: 10%
 - Tími: 2 vikur
 
@@ -13,23 +13,22 @@
    - 7-Segment Display samanstendur af 8 LED, hvers vegna þarf bara eitt viðnám (en ekki átta)?
    - Breyttu kóðanum í *Count Up Timer* þannig að hann noti ekki ```for``` lykkjuna.
 
-1. [LCD1602 (þarf að lóða)](https://www.arduino.cc/en/Tutorial/HelloWorld)
-   - Breyttu kóðanum þannig að nafnið þitt birtist á skjánum.
-   - Breyttu kóðanum þannig að nafnið þitt birtist í efri línunni á skjánum, einn stafur í einu. Í neðri línunni á að standa **Tolvubraut**.
-   ![LCD](https://github.com/GunnarThorunnarson/VESM2VT05BU/blob/master/Myndir/lcd_verkefni2.gif)
-
 1. [Stýripinni (e. joystick)](../Kodi/styripinni.ino), sjá efst í skjalinu hvernig á að tengja stýripinnan við Arduino
    - Hvaða gildi gefur stýripinninn þegar ýtt er lengst til vinstri?
    - Hvaða gildi gefur stýripinninn þegar ekki er ýtt á hann?
+   
+1. [LCD1602 (gæti þurft að lóða)](https://www.arduino.cc/en/Tutorial/HelloWorld)
+   - Afhverju er R/W tengt í GND?
+   - Afherju eru bara 4 datapinnar notaðir, hvenær notar maður alla 8?
+   - Breyttu kóðanum þannig að nafnið þitt birtist í efri línunni á skjánum, einn stafur í einu (skrifar nafnið og endurtekur sig svo). Í neðri línunni á að standa **Tolvubraut**.
+   ![LCD](https://github.com/GunnarThorunnarson/VESM2VT05BU/blob/master/Myndir/lcd_verkefni2.gif)
 
 1. Stýripinni og LCD
    - Notaði stýripinnann til að flytja tákn að eigin vali til á LCD skjánum.
    - Táknið þarf að geta flust milli línanna og svo innan sömu línunnar.
    - Tryggið að táknið fari ekki út fyrir skjáinn.
 
-1. [Shift register](https://learn.adafruit.com/adafruit-arduino-lesson-4-eight-leds/parts)
-   - [Integrated Circuits](https://www.instructables.com/lesson/Integrated-Circuits-1/)
-   - Setja upp og sýna video fyrir [Shift register](https://learn.adafruit.com/adafruit-arduino-lesson-4-eight-leds/parts)
+1. [IR fjarstýringu með ir receiver](https://www.circuitbasics.com/arduino-ir-remote-receiver-tutorial/)
 
 ## Námsmat og skil
 
