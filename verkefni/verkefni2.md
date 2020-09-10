@@ -20,7 +20,7 @@
 1. [LCD1602 (gæti þurft að lóða)](https://www.arduino.cc/en/Tutorial/HelloWorld)
    - Afhverju er R/W tengt í GND?
    - Afherju eru bara 4 datapinnar notaðir, hvenær notar maður alla 8?
-   - Breyttu kóðanum þannig að nafnið þitt birtist í efri línunni á skjánum, einn stafur í einu (skrifar nafnið og endurtekur sig svo). Í neðri línunni á að standa **Tolvubraut**.
+   - Breyttu kóðanum þannig að nafnið þitt birtist í efri línunni á skjánum, einn stafur í einu (skrifar nafnið og endurtekur sig svo). Í neðri línunni á að standa **Tolvubraut**.<br>
    ![LCD](https://github.com/GunnarThorunnarson/VESM2VT05BU/blob/master/Myndir/lcd_verkefni2.gif)
 
 1. Stýripinni og LCD
