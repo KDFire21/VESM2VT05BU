@@ -14,8 +14,10 @@
    - Breyttu kóðanum í *Count Up Timer* þannig að hann noti ekki ```for``` lykkjuna.
 
 1. [Stýripinni (e. joystick)](../Kodi/styripinni.ino), sjá efst í skjalinu hvernig á að tengja stýripinnan við Arduino
+   - Aðeins um [Pull Up Resistor (myndband)](https://www.youtube.com/watch?v=wxjerCHCEMg)
    - Hvaða gildi gefur stýripinninn þegar ýtt er lengst til vinstri?
    - Hvaða gildi gefur stýripinninn þegar ekki er ýtt á hann?
+   
    
 1. [LCD1602 (gæti þurft að lóða)](https://www.arduino.cc/en/Tutorial/HelloWorld)
    - Afhverju er R/W tengt í GND?
