@@ -17,7 +17,7 @@
    - Aðeins um [Pull Up Resistor (myndband)](https://www.youtube.com/watch?v=wxjerCHCEMg)
    - Hvaða gildi gefur stýripinninn þegar ýtt er lengst til vinstri?
    - Hvaða gildi gefur stýripinninn þegar ekki er ýtt á hann?
-   
+   - Sjá einnig [How to Use a Joystick with Serial Monitor and map()](https://create.arduino.cc/projecthub/MisterBotBreak/how-to-use-a-joystick-with-serial-monitor-1f04f0)
    
 1. [LCD1602 (gæti þurft að lóða)](https://www.arduino.cc/en/Tutorial/HelloWorld)
    - Afhverju er R/W tengt í GND?
